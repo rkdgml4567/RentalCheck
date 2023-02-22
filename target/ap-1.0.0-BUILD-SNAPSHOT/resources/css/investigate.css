@@ -1,0 +1,29 @@
+body{
+	background-color: aqua;
+	margin: 100px;
+	align-self: center;
+	background-image: url('../image/123.jpg');
+
+}
+
+.checkBoxForm{
+	
+	background-color: white;
+	background-clip: content-box;
+	text-align: center; 
+	width:800px;
+	border: 3px solid #00A4BD;
+	margin:auto
+	
+}
+.checkResult{
+	
+	background-color: white;
+	background-clip: content-box;
+	text-align: center; 
+	width:800px;
+	border: 3px solid #00A4BD;
+	margin:auto;
+	
+}
+
